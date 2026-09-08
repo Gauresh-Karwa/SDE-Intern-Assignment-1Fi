@@ -5,6 +5,30 @@ A "1Fi Marketplace" section built into a Shop page, per the assignment brief.
 Users can browse a product catalog, select a variant, choose a 0%-interest
 EMI plan, optionally edit the amount they want to pay against, and proceed.
 
+## 📸 App Preview
+
+### 📱 Mobile Experience
+
+| 1. Shop Hub | 2. 1Fi Marketplace | 3. Variant Selection | 4. EMI Plan & Summary |
+|:---:|:---:|:---:|:---:|
+| <img src="./docs/screenshots/mobile-shop-hub.png" width="220" alt="Shop Hub Mobile" /> | <img src="./docs/screenshots/mobile-marketplace-grid.png" width="220" alt="Marketplace Grid Mobile" /> | <img src="./docs/screenshots/mobile-product-variant.png" width="220" alt="Product Variant Mobile" /> | <img src="./docs/screenshots/mobile-product-emi.png" width="220" alt="EMI Plan Mobile" /> |
+
+<details>
+<summary><b>🖥️ View Desktop Experience (Click to expand)</b></summary>
+
+<br />
+
+#### 1. Shop Hub
+<img src="./docs/screenshots/desktop-shop-hub.png" width="800" alt="Shop Hub Desktop" />
+
+#### 2. Variant Selection
+<img src="./docs/screenshots/desktop-product-variant.png" width="800" alt="Variant Selection Desktop" />
+
+#### 3. EMI Plan Selection & Confirmation
+<img src="./docs/screenshots/desktop-product-emi-proceed.png" width="800" alt="EMI Plan & Proceed Desktop" />
+
+</details>
+
 ## Stack
 Next.js (App Router) + Tailwind CSS. Chosen because it matches 1Fi's own
 production stack (React/Next.js/Node.js, per their public job listing),
