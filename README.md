@@ -14,7 +14,7 @@ EMI plan, optionally edit the amount they want to pay against, and proceed.
 | <img src="./docs/screenshots/mobile-shop-hub.png" width="220" alt="Shop Hub Mobile" /> | <img src="./docs/screenshots/mobile-marketplace-grid.png" width="220" alt="Marketplace Grid Mobile" /> | <img src="./docs/screenshots/mobile-product-variant.png" width="220" alt="Product Variant Mobile" /> | <img src="./docs/screenshots/mobile-product-emi.png" width="220" alt="EMI Plan Mobile" /> |
 
 <details>
-<summary><b>🖥️ View Desktop Experience (Click to expand)</b></summary>
+<summary><b>View Desktop Experience (Click to expand)</b></summary>
 
 <br />
 
