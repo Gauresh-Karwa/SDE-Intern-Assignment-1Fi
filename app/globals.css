@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  background-color: #F7F7F6;
+  color: #0A0A0F;
+}
+
+@layer components {
+  .section-label {
+    @apply text-xs font-semibold uppercase tracking-wide text-brand-600 border-l-2 border-brand-600 pl-2;
+  }
+  .card {
+    @apply bg-white rounded-2xl shadow-card;
+  }
+  .pill-btn-primary {
+    @apply bg-white text-brand-700 font-semibold rounded-full px-5 py-2.5 text-sm active:scale-[0.98] transition;
+  }
+  .pill-btn-solid {
+    @apply bg-brand-600 text-white font-semibold rounded-full px-5 py-2.5 text-sm active:scale-[0.98] transition hover:bg-brand-700 disabled:opacity-40 disabled:pointer-events-none;
+  }
+  .pill-btn-outline {
+    @apply bg-white text-brand-600 font-semibold rounded-full px-5 py-2 text-sm border border-brand-500 active:scale-[0.98] transition;
+  }
+}
