@@ -5,9 +5,9 @@ A "1Fi Marketplace" section built into a Shop page, per the assignment brief.
 Users can browse a product catalog, select a variant, choose a 0%-interest
 EMI plan, optionally edit the amount they want to pay against, and proceed.
 
-## 📸 App Preview
+## App Preview
 
-### 📱 Mobile Experience
+### Mobile Experience
 
 | 1. Shop Hub | 2. 1Fi Marketplace | 3. Variant Selection | 4. EMI Plan & Summary |
 |:---:|:---:|:---:|:---:|
